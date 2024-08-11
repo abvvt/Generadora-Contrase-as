@@ -12,6 +12,6 @@ CSS: Estilos y diseño.
 JavaScript: Lógica para generar contraseñas y copiar al portapapeles.
 
 # Mi sitio
-![Mi sitio](assets\gcc.png)
+![Mi sitio](gcc.png)
 
 Desarrollado por [Abigail](https://github.com/abvvt)
